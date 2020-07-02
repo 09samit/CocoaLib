@@ -8,6 +8,6 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT"
   spec.author             = { "Amit Garg" => "09s.amitgarg@gmail.com" }
   spec.platform     = :ios, "11.0"
-  spec.source       = { :git => "https://github.com/09samit/CocoaLib.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/09samit/CocoaLib.git", :tag => "1.0.2" }
   spec.source_files  = "CocoaLib/**/*.swift"
 end
