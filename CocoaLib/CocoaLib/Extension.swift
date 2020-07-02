@@ -14,7 +14,7 @@ public class Service {
         
     }
     
-    func hello() {
+    public func hello() {
         print("Hello my frind from cocoa framework")
     }
     
